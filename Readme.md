@@ -1,4 +1,4 @@
-# Youssef Tajani
+# Youssef TAJANI
 _PhD Candidate in Artificial Intelligence | INSEA Engineer (SDRO) | Data Science & Machine Learning_
 
 ## About Me
