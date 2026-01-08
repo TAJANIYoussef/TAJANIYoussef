@@ -57,4 +57,4 @@ My long-term goal is to contribute to high-impact AI research that bridges the g
 I am especially interested in roles and collaborations that involve R&D, applied machine learning, and data-driven decision making.
 
 ## Contact
-- Email: youssef.tajani-etu@etu.univh2c.ma - yousseftajani1@gmail.com   
+- Email: youssef.tajani-etu@etu.univh2c.ma 
