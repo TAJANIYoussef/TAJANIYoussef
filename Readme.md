@@ -2,7 +2,7 @@
 _PhD Candidate in Artificial Intelligence | INSEA Engineer (SDRO) | Data Science & Machine Learning_
 
 ## About Me
-I am a PhD candidate in Artificial Intelligence and Machine Learning at the Laboratory of Artificial Intelligence and Systems (LIAS), University Hassan II of Casablanca, and an INSEA Engineer in Decision Science and Operations Research (SDRO, Class of 2025).
+I am a PhD candidate in Artificial Intelligence and Machine Learning focusing on developing novel AI and Stochastic approaches to handle class imbalance in ML models at the Laboratory of Artificial Intelligence and Systems (LIAS), University Hassan II of Casablanca, and an INSEA Engineer in Decision Science and Operations Research (SDRO, Class of 2025).
 
 My background combines applied machine learning, statistical modeling, and large-scale data engineering, with a strong focus on high-impact real-world problems in finance, risk, and industrial analytics.
 
